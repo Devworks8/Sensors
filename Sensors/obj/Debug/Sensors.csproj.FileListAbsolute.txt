@@ -1,0 +1,7 @@
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\obj\Debug\Sensors.csproj.AssemblyReference.cache
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\obj\Debug\Sensors.csproj.CoreCompileInputs.cache
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\bin\Debug\Sensors.exe.config
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\bin\Debug\Sensors.exe
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\bin\Debug\Sensors.pdb
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\obj\Debug\Sensors.exe
+D:\Repository\CSharp\GitRepo\Sensors\Sensors\obj\Debug\Sensors.pdb
